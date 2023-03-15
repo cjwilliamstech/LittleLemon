@@ -1,0 +1,3 @@
+Here you'll find notes for this project. 
+I used venv as my virtual environment. 
+Read more on how to set up and activate VENV: https://realpython.com/python-virtual-environments-a-primer/
