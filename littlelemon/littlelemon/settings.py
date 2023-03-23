@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # 'mysqlclient',
     'restaurant',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
