@@ -3,6 +3,8 @@ from rest_framework import viewsets
 from rest_framework import generics
 from . models import Menu, Booking
 from . serializers import MenuSerializer, MenuItemSerializer, BookingSerializer
+from rest_framework import permissions
+
 
 # Create your views here.
 def index(request):

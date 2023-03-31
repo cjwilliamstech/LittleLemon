@@ -1,3 +1,16 @@
 Here you'll find notes for this project. 
 I used venv as my virtual environment. 
 Read more on how to set up and activate VENV: https://realpython.com/python-virtual-environments-a-primer/
+Super User: admindjango 
+Pass: adminman22#
+
+Staff User: testuser1
+Pass: testman53!
+
+APIs you can test: 
+
+restaurant/menu-items/   
+restaurant/menu/""id number here"" example: restaurant/menu/1 
+restaurant/booking ""add booking date and time""
+auth/token/login/
+auth/users
