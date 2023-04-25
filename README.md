@@ -1,5 +1,5 @@
-# LittleLemon
+# Little Lemon restaurant application.
 
-Little Lemon restaurant application, please read the Notes.txt file for API endpoints and admin info. 
-App is linked to mysql database. 
-Any questions about this app please contact me. 
+Back-End admin CRUD application built with Django and DRF. Please read the Notes.txt file for API endpoints and admin info. 
+App is linked to a mysql database. 
+
